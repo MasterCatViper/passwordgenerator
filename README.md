@@ -1,6 +1,6 @@
 # React + Vite
 
-Deployed By - https://passwordgenerator-i6e1.onrender.com/
+Deployed Link - https://passwordgenerator-i6e1.onrender.com/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
